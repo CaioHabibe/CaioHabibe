@@ -9,7 +9,7 @@
 *   🌍  I'm based in Brasilia, Brazil
 *   ✉️  You can contact me at [caiofhc02@gmail.com](mailto:caiofhc02@gmail.com)
 *   🧠  I'm currently learning about software development and competitive programming
-*   💻  Interested in open softwares
+*   💻  Interested in open source softwares
   
 ### Technologies
 <p align="left">
@@ -17,8 +17,10 @@
 </p>
 
 ### Learning about
+<p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby"/>
-                    
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+</p>                  
 
 ### Socials
                   
